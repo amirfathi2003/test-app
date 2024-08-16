@@ -9,3 +9,5 @@ function stars(rows) {
   }
   console.log(pattern);
 }
+
+console.log("hello world");
